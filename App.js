@@ -84,7 +84,7 @@ Ext.define('CustomApp', {
 		        	items: [
 		        		{
 			            	name      : 'buildDurationCheckbox',
-			            	inputValue: '1',
+			            	inputValue: '0',
 			            	itemId:      'buildDurationCheckbox',
 			            }
 		        	]
